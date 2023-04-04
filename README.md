@@ -1,6 +1,6 @@
 Olá Mundo, meu nome é Marcelo Torrieli 👋
 
-- 🔭 Estou trabalhando com gestão de projetos.
+- 🔭 Trabalhando em projetos de Ti.
 - 🌱 Graduando em DSM (Desenvolvimento de Software Multiplataforma) na "FATEC" Faculdade de tecnologia de Jacareí.
 
 ##
